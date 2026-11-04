@@ -1,0 +1,6 @@
+numpy
+pillow
+scipy
+requests
+imageio-ffmpeg
+# tinysoundfont must be installed with --no-deps (its pyaudio dependency is not needed and fails to build)
